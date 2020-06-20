@@ -1,7 +1,7 @@
 # Intro-to-Philo
 Notes for the 'Introduction to Philosophy' course offered by The University of Edinburgh through Coursera.
 
-[image](https://github.com/dilayercelik/Intro-to-Philo/blob/master/F1.large.jpg)
+![image](https://github.com/dilayercelik/Intro-to-Philo/blob/master/F1.large.jpg)
 
 # Acknowledgements
 The development of this MOOC has been led by the University of Edinburgh's Eidyn research centre.
