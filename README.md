@@ -65,11 +65,16 @@ Because philosophy involves questioning, stepping back from the current state of
 ### 1. Philosophy: Fundamentally important?
 Is it true that all philosophical questions are fundamental?
 
-- Not True: 
+- Somehow Not True: 
 > You can ask plenty of questions that do not need to be philosophical.
 > There are equally plenty of actions you can undertake without any philosophical methodology and questioning.
 
-e.g. it's in the best interest for all that neurosurgeons do not 'step back' and ponder whether they are thinking about the brain in the best way every single time they perform a surgery. Philosophical questioning is not fundamental for pursuing a myriad of activities; even further, doing philosophy can hinder doing some activities.
+> e.g. it's in the best interest for all that neurosurgeons do not 'step back' and ponder whether they are thinking about the brain in the best way every single time they perform a surgery. Philosophical questioning is not fundamental for pursuing a myriad of activities; even further, doing philosophy can hinder doing some activities.
+
+- Somehow True:
+> No matter the kind of questions you’re asking, or activities you’re performing, further philosophical questions can always arise: 'the Whys never end'.
+
+> the reason why philosophy is so broad: you can question the presuppositions of any activity, thought process, anytime and anywhere.
 
 
 # --------------------- TEACHING STAFF ---------------------
