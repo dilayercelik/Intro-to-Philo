@@ -41,7 +41,7 @@ More info: [here](https://www.coursera.org/learn/philosophy?skipBrowseRedirect=t
 
 # Week 1 - module: What is Philosophy?
 
-## What is philosophy?
+## A. What is philosophy?
 
 ### 1. Definition
 - definition of 'philosophy':  philosophy is the activity of working out the right way of thinking about things
@@ -58,8 +58,19 @@ What distinguishes philosophy is that it focuses on working out the BEST way of 
 Because philosophy involves questioning, stepping back from the current state of thinking, the current way of doing things, it can virtually be applied to any subjects: philosophy of physics, philosophy of medicine, etc.
 
 >philosophy of physics: we might ask: ‘What do we mean by “physical reality”?’, 
-‘How do experimental results confirm or disconfirm a hypothesis?’, or ‘What distinguishes a
-good scientific theory from a bad one?’
+‘How do experimental results confirm or disconfirm a hypothesis?’, or ‘What distinguishes a good scientific theory from a bad one?’
+
+## B. Philosophy: Difficult, Important, Everywhere.
+
+### 1. Philosophy: Fundamentally important?
+Is it true that all philosophical questions are fundamental?
+
+- Not True: 
+> You can ask plenty of questions that do not need to be philosophical.
+> There are equally plenty of actions you can undertake without any philosophical methodology and questioning.
+
+e.g. it's in the best interest for all that neurosurgeons do not 'step back' and ponder whether they are thinking about the brain in the best way every single time they perform a surgery. Philosophical questioning is not fundamental for pursuing a myriad of activities; even further, doing philosophy can hinder doing some activities.
+
 
 # --------------------- TEACHING STAFF ---------------------
 
