@@ -110,6 +110,22 @@ When an argument is valid with true premises, we say that it is sound.
 
 Therefore, an argument can fail to be sound by having one or more false premises (even if the argument is valid, i.e. if the truth of the conclusion follows from the truth of the premises - among these premises at least one would be false for the argument to not be sound), or by being invalid (the truth of the conclusion does not follow from the truth of its premises, even if the premises are true).
 
+### 4. What Philosophers Do:
+"In trying to come to think about some topic in the right way, we attempt to get the clearest possible
+understanding of the evidence in favour of our thinking as we do, and the way it supports the
+conclusions about the topic we arrive at." Dave Ward
+
+### 5. Philosophy Is Not Just All About Arguments.
+“Philosophy needs vision and argument […] there is something disappointing about a
+philosophical work that contains arguments, however good, which are not inspired by some
+genuine vision, and something disappointing about a philosophical work that contains a
+vision, however inspiring, which is unsupported by arguments […]
+Speculation about how things hang together requires […] the ability to draw out
+conceptual distinctions and connections, and the ability to argue […] But speculative views,
+however interesting or well supported by arguments or insightful, are not all we need. We
+also need what [the philosopher Myles] Burnyeat called ‘vision’ – and I take that to mean
+vision as to how to live our lives, and how to order our societies.”  - philosopher Hilary Putnam
+
 # --------------------- TEACHING STAFF ---------------------
 
 ### Dr. Dave Ward
