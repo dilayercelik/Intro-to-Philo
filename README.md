@@ -13,19 +13,23 @@ More info: [here](https://www.coursera.org/learn/philosophy?skipBrowseRedirect=t
 
 # Outline
 - Week 1
-What is Philosophy?
+>What is Philosophy?
 
 - Week 2
-Morality: Objective, Relative or Emotive? or What is Knowledge? And Do We Have Any?
+>Morality: Objective, Relative or Emotive? 
+>or: What is Knowledge? And Do We Have Any?
 
 - Week 3
-Do We Have an Obligation to Obey the Law? or Should You Believe What You Hear?
+>Do We Have an Obligation to Obey the Law? 
+>or: Should You Believe What You Hear?
 
 - Week 4
-Minds, Brains and Computers or Are Scientific Theories True?
+>Minds, Brains and Computers 
+>or: Are Scientific Theories True?
 
 - Week 5
-Do We Have Free Will and Does it Matter? or Time Travel and Philosophy
+>Do We Have Free Will and Does it Matter? 
+>or: Time Travel and Philosophy
 
 # --------------------- CONTENT NOTES ----------------------
 
