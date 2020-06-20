@@ -27,7 +27,7 @@ Minds, Brains and Computers or Are Scientific Theories True?
 - Week 5
 Do We Have Free Will and Does it Matter? or Time Travel and Philosophy
 
-# ---- CONTENT NOTES ----
+# ----------------------------------------------------- CONTENT NOTES --------------------------------------------------------
 
 # Week 1 - module: What is Philosophy?
 
