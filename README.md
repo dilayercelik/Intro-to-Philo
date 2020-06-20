@@ -62,8 +62,8 @@ Because philosophy involves questioning, stepping back from the current state of
 
 ## B. Philosophy: Difficult, Important, Everywhere.
 
-### 1. Philosophy: Fundamentally important?
-Is it true that all philosophical questions are fundamental?
+### 1. Philosophy: Fundamental?
+Is it true that all philosophical questions are fundamental in nature?
 
 - Somehow Not True: 
 > You can ask plenty of questions that do not need to be philosophical.
@@ -76,6 +76,17 @@ Is it true that all philosophical questions are fundamental?
 
 > the reason why philosophy is so broad: you can question the presuppositions of any activity, thought process, anytime and anywhere.
 
+### 2. Philosophy: Important?
+Is it true that all philosophical questions are important in nature?
+
+- Somehow Not True:
+> Because you can step back from anything and ask questions about any activity, way of doing things and way of thinking about things, there are questions that are seemingly 'trivial' or 'boring' to even bother asking.
+
+- Somehow True:
+Philosophy as its best, is often important.
+> Most philosophy (worthwile philosophy) "aims at thinking clearly about the things that matter most to us."
+
+> Thinking philosophically (e.g. stepping back and examining presuppositions) can help us question or see past dogma, accepted wisdom that may not be the best thing for us to think or believe (no longer).
 
 # --------------------- TEACHING STAFF ---------------------
 
