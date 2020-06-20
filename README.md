@@ -122,6 +122,11 @@ Therefore, an argument can fail to be sound by having one or more false premises
 ### Dr. Elinor Mason
 ### Dr. Alasdair Richmond
 
+# Additional Resources
+- [Philosophy Bites](http://www.philosophybites.com/) 
+- detailed historical survey of different conceptions of philosophy [here](https://www.iep.utm.edu/con-meta/)
+- article on free will [here](https://www.iep.utm.edu/freewill/)
+
 # Author 
 Dilay Fidan Ercelik
 
