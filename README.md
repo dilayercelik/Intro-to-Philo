@@ -1,4 +1,4 @@
-# Intro-to-Philo
+# Introduction to Philosophy
 Notes for the 'Introduction to Philosophy' course offered by The University of Edinburgh through Coursera.
 
 ![image](https://github.com/dilayercelik/Intro-to-Philo/blob/master/F1.large.jpg)
