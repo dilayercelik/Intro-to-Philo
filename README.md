@@ -39,7 +39,8 @@ More info: [here](https://www.coursera.org/learn/philosophy?skipBrowseRedirect=t
 
 ## What is philosophy?
 
-
+-definition of 'philosophy':  philosophy is the activity of working out the right way of thinking about things
+ > an 'activity' rather than a 'subject': involves action
 # --------------------- TEACHING STAFF ---------------------
 
 ### Dr. Dave Ward
