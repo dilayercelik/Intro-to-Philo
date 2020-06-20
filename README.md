@@ -44,7 +44,12 @@ More info: [here](https://www.coursera.org/learn/philosophy?skipBrowseRedirect=t
  > an 'activity' rather than a 'subject': involves action
 
 - To genuinely understand philosophy, you need to DO IT: you need to work through philosophical problems, think about and analyse the ways other thinkers have approached these issues.
- 
+
+### Difference between philosophy and other subjects
+All subjects (e.g. physics) think about things.
+What distinguishes philosophy is that it focuses on working out the BEST way of thinking about things.
+> This entails stepping back from the 'normal' way of thinking and questioning it: question its assumptions, presuppositions, conclusions, whether it's the best possible way to go about things (in the realm of the given subject).
+
 # --------------------- TEACHING STAFF ---------------------
 
 ### Dr. Dave Ward
