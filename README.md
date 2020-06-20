@@ -68,3 +68,9 @@ good scientific theory from a bad one?’
 ### Professor Michela Massimi
 ### Dr. Elinor Mason
 ### Dr. Alasdair Richmond
+
+# Author 
+Dilay Fidan Ercelik
+
+# License
+This work is licensed under the MIT License - see LICENSE
