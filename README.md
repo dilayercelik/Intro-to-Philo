@@ -54,7 +54,7 @@ All subjects (e.g. physics) think about things.
 What distinguishes philosophy is that it focuses on working out the BEST way of thinking about things.
 > This entails stepping back from the 'normal' way of thinking and questioning it: question its assumptions, presuppositions, conclusions, whether it's the best possible way to go about things (in the realm of the given subject).
 
-### Blurry Borders between philosophy and other subjects
+### 3. Blurry Borders between philosophy and other subjects
 Because philosophy involves questioning, stepping back from the current state of thinking, the current way of doing things, it can virtually be applied to any subjects: philosophy of physics, philosophy of medicine, etc.
 
 >philosophy of physics: we might ask: ‘What do we mean by “physical reality”?’, 
