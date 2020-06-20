@@ -39,3 +39,13 @@ More info: [here](https://www.coursera.org/learn/philosophy?skipBrowseRedirect=t
 
 
 # --------------------- TEACHING STAFF ---------------------
+
+### Dr. Dave Ward
+### Dr. Matthew Chrisman
+### Professor Duncan Pritchard
+### Dr. Guy Fletcher
+### Dr. Allan Hazlett
+### Dr. Suilin Lavelle
+### Professor Michela Massimi
+### Dr. Elinor Mason
+### Dr. Alasdair Richmond
