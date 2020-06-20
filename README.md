@@ -88,6 +88,28 @@ Philosophy as its best, is often important.
 
 > Thinking philosophically (e.g. stepping back and examining presuppositions) can help us question or see past dogma, accepted wisdom that may not be the best thing for us to think or believe (no longer).
 
+## C. Philosophy: How Do We Do It?
+
+### 1. Definition of an Argument:
+An argument, in philosophy, is just a "sequence of evidence and reasoning designed to support a particular conclusion."
+
+An argument has at least 2 premises and one conclusion drawn from these premises.
+
+For an argument (premises + conclusion) to be valid, the truth of the conclusion follows from the truth of its premises. 
+
+### 2. Questioning Arguments in Philosophy
+
+- One way to question an argument is to question whether the truth of the conclusion follows from the truth of its premises: 
+> If there are cases where the premises could be true without the conclusion having to be true thereafter, the argument is invalid.
+
+- A second way is to question the truth of the premises (thinking about the presuppositions):
+> Are the claims made by the premises just 'claims'? i.e. are they really true?
+
+### 3. Sound and Valid Arguments
+When an argument is valid with true premises, we say that it is sound.
+
+Therefore, an argument can fail to be sound by having one or more false premises (even if the argument is valid, i.e. if the truth of the conclusion follows from the truth of the premises - among these premises at least one would be false for the argument to not be sound), or by being invalid (the truth of the conclusion does not follow from the truth of its premises, even if the premises are true).
+
 # --------------------- TEACHING STAFF ---------------------
 
 ### Dr. Dave Ward
