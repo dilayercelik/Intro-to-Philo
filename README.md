@@ -39,16 +39,23 @@ More info: [here](https://www.coursera.org/learn/philosophy?skipBrowseRedirect=t
 
 ## What is philosophy?
 
-### Definition
+### 1. Definition
 - definition of 'philosophy':  philosophy is the activity of working out the right way of thinking about things
  > an 'activity' rather than a 'subject': involves action
 
 - To genuinely understand philosophy, you need to DO IT: you need to work through philosophical problems, think about and analyse the ways other thinkers have approached these issues.
 
-### Difference between philosophy and other subjects
+### 2. Difference between philosophy and other subjects
 All subjects (e.g. physics) think about things.
 What distinguishes philosophy is that it focuses on working out the BEST way of thinking about things.
 > This entails stepping back from the 'normal' way of thinking and questioning it: question its assumptions, presuppositions, conclusions, whether it's the best possible way to go about things (in the realm of the given subject).
+
+### Blurry Borders between philosophy and other subjects
+Because philosophy involves questioning, stepping back from the current state of thinking, the current way of doing things, it can virtually be applied to any subjects: philosophy of physics, philosophy of medicine, etc.
+
+>philosophy of physics: we might ask: ‘What do we mean by “physical reality”?’, 
+‘How do experimental results confirm or disconfirm a hypothesis?’, or ‘What distinguishes a
+good scientific theory from a bad one?’
 
 # --------------------- TEACHING STAFF ---------------------
 
