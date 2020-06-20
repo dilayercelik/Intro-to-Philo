@@ -39,8 +39,12 @@ More info: [here](https://www.coursera.org/learn/philosophy?skipBrowseRedirect=t
 
 ## What is philosophy?
 
--definition of 'philosophy':  philosophy is the activity of working out the right way of thinking about things
+### Definition
+- definition of 'philosophy':  philosophy is the activity of working out the right way of thinking about things
  > an 'activity' rather than a 'subject': involves action
+
+- To genuinely understand philosophy, you need to DO IT: you need to work through philosophical problems, think about and analyse the ways other thinkers have approached these issues.
+ 
 # --------------------- TEACHING STAFF ---------------------
 
 ### Dr. Dave Ward
