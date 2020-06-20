@@ -73,4 +73,4 @@ good scientific theory from a bad one?’
 Dilay Fidan Ercelik
 
 # License
-This work is licensed under the MIT License - see LICENSE
+This work is licensed under the MIT License - see [LICENSE](https://github.com/dilayercelik/Intro-to-Philo/blob/master/LICENSE)
