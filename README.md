@@ -37,3 +37,5 @@ More info: [here](https://www.coursera.org/learn/philosophy?skipBrowseRedirect=t
 
 ## What is philosophy?
 
+
+# --------------------- TEACHING STAFF ---------------------
