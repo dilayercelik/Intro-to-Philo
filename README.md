@@ -116,6 +116,7 @@ understanding of the evidence in favour of our thinking as we do, and the way it
 conclusions about the topic we arrive at." Dave Ward
 
 ### 5. Philosophy Is Not Just All About Arguments.
+
 “Philosophy needs vision and argument […] there is something disappointing about a
 philosophical work that contains arguments, however good, which are not inspired by some
 genuine vision, and something disappointing about a philosophical work that contains a
@@ -125,6 +126,12 @@ conceptual distinctions and connections, and the ability to argue […] But spec
 however interesting or well supported by arguments or insightful, are not all we need. We
 also need what [the philosopher Myles] Burnyeat called ‘vision’ – and I take that to mean
 vision as to how to live our lives, and how to order our societies.”  - philosopher Hilary Putnam
+
+- We should bear in mind the ‘big picture’ when putting forward or criticizing
+philosophical arguments:
+> step back and think about why a topic is an interesting or useful one to be considering 
+
+> think about the **vision** that might have inspired an argument that we’re criticizing or evaluating.
 
 # --------------------- TEACHING STAFF ---------------------
 
