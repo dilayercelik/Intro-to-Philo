@@ -163,11 +163,24 @@ So, are these 'habits' (experiencing the world as if there was causation linking
 us at every turn, in spite of our endeavours to elude or avoid it.’ - Hume
 
 ### 3. Kant on the ‘right way’ of thinking
+The German philosopher Immanuel Kant said that these ideas of Hume’s awoke him from his dogmatic slumbers. Previously Kant had assumed that philosophical thinking could put us in touch with the world, but he now realized he had to *prove* this.
 
+On the contrary of Hume, Kant thought it was **possible** to prove that philosophical thinking would lead us to unlock the 'right', the best way of thinking about things.
 
+Kant’s views are very complicated – in a nutshell, he tried to show that the possibility of a world that didn’t conform to the rules and patterns that our mind imposes on experience (e.g. causation linking events) was **nonsensical**.
 
+> Hume was **right** to point out that philosophical reflection uncovers ways that we can’t avoid
+thinking about and experiencing the world – as stretching through space, as unfolding over time, as
+containing causally connected events.
 
+> But he was **wrong** to suggest that these might just be facts about us – arbitrary habits of our minds.
+-> Kant tried to show that they were also facts about what it is for a world to be there to think about
+in the first place. 
 
+We can't think of a world that doesn't conform to the 'habits' of our mind
+Kant tried to show that the rules that govern our thought are the same as rules that govern the world, and that we can know this just by thinking about it.
+
+**Summary for Kant**: there IS a right way of thinking about things, and we can arrive at it by the clear and careful use of reason.
 
 # --------------------- TEACHING STAFF ---------------------
 
