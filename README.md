@@ -133,6 +133,13 @@ philosophical arguments:
 
 > think about the **vision** that might have inspired an argument that we’re criticizing or evaluating.
 
+### 6. Is There A Right Way Of Thinking About Things?
+
+Our definition of philosophy: working out the 'best' way of thinking about things.
+
+**But** is there a right way of thinking about things? 
+And *if there is*, how do we know that we can get at the right way just by thinking?
+
 # --------------------- TEACHING STAFF ---------------------
 
 ### Dr. Dave Ward
