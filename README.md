@@ -180,7 +180,7 @@ in the first place.
 We can't think of a world that doesn't conform to the 'habits' of our mind
 Kant tried to show that the rules that govern our thought are the same as rules that govern the world, and that we can know this just by thinking about it.
 
-**Summary for Kant**: there IS a right way of thinking about things, and we can arrive at it by the clear and careful use of reason.
+**Summary for Kant**: there *is* a right way of thinking about things, and we can arrive at it by the clear and careful use of reason.
 
 # --------------------- TEACHING STAFF ---------------------
 
