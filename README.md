@@ -133,12 +133,41 @@ philosophical arguments:
 
 > think about the **vision** that might have inspired an argument that we’re criticizing or evaluating.
 
-### 6. Is There A Right Way Of Thinking About Things?
+## D. Is There A Right Way Of Thinking About Things?
+
+### 1. Question
 
 Our definition of philosophy: working out the 'best' way of thinking about things.
 
 **But** is there a right way of thinking about things? 
+
 And *if there is*, how do we know that we can get at the right way just by thinking?
+
+### 2. Hume on the ‘right way’ of thinking
+The Edinburgh-based philosopher was pessimistic about the notion of a ‘right way’ of thinking about things,
+and even more pessimistic about the idea that such a ‘right way’ could be something our minds could grasp.
+
+As an empiricist philosopher, Hume thought that it was crucial that philosophy stay true to our sensory experience of the world. However, he argued that our experience tells us much less about the world than we usually think.
+
+Examples:
+> **Causation**: we never really observe one thing causing another to happen. For Hume, causation isn’t something we observe in the world. It’s something *extra* that our minds add to the events we observe.
+
+> **Ourselves**: We never really observe ourselves. For Hume, the idea of a persisting self, over and above the various thoughts and feelings that pass through ‘our’ minds is something extra that our minds add to what we really observe.
+
+So, are these 'habits' (experiencing the world as if there was causation linking events and experiencing ourselves as unifying our feelings, impressions) really the way things are in the world?
+**I.e., are they the right ways of thinking about causation and ourselves?**
+
+> For Hume: there is no way for us to know the answer to the question above. He said that it's just the way our mind experience the world, but we cannot know whether these habits are the right ways of thinking about the world and things.
+
+‘The observation of human blindness and weakness is the result of all philosophy, and meets
+us at every turn, in spite of our endeavours to elude or avoid it.’ - Hume
+
+### 3. Kant on the ‘right way’ of thinking
+
+
+
+
+
 
 # --------------------- TEACHING STAFF ---------------------
 
