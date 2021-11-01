@@ -4,7 +4,7 @@ Notes for the 'Introduction to Philosophy' course offered by The University of E
 ![image](https://github.com/dilayercelik/Intro-to-Philo/blob/master/F1.large.jpg)
 
 # Acknowledgements
-The development of this MOOC has been led by the University of Edinburgh's Eidyn research centre.
+This MOOC was developed by the Eidyn Research Centre at the University of Edinburgh.
 
 # Overview
 This course is designed to give you an overview of some of the main areas of philosophy, and a taster of some of the topics and questions you might study as part of a degree programme in philosophy. In each module a different member of staff will introduce you to some of the questions that they think are most interesting or important in their particular area of expertise.
