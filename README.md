@@ -37,7 +37,6 @@ More info: [here](https://www.coursera.org/learn/philosophy?skipBrowseRedirect=t
 
 >or: Time Travel and Philosophy
 
-# --------------------- CONTENT NOTES ----------------------
 
 # Week 1 - module: What is Philosophy?
 
